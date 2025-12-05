@@ -70,7 +70,8 @@ class ProductAdmin(admin.ModelAdmin):
 
 
  OUTPUT
-<img width="1918" height="974" alt="Screenshot 2025-12-03 170334" src="https://github.com/user-attachments/assets/ed3ba562-adfc-4e79-b6a9-76a03007e550" />
+![WhatsApp Image 2025-12-05 at 13 40 45_af5de64f](https://github.com/user-attachments/assets/68520e54-8a29-49c4-8644-8d902b0cffab)
+
 
 RESULT
 Thus the program for creating E-commerce website database using ORM hass been executed successfully
