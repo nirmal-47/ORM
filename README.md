@@ -1,5 +1,5 @@
 Ex01 Django ORM Web Application
-Date: 05/12/2025
+Date: 15/11/2025
 Ref no: 25014734
 
 ## AIM
